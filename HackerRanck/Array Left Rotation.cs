@@ -14,7 +14,6 @@ using System;
 
 class Result
 {
-
     public static List<int> rotateLeft(int d, List<int> arr)
     {
         for (int i = 0; i < d; i++)
