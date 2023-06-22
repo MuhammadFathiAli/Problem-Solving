@@ -35,6 +35,7 @@ namespace PrimeFactorization
             }
         }
 
+
         static void Main(string[] args)
         {
             ulong n;
