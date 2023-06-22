@@ -28,7 +28,6 @@ namespace ps02
                 {
                     arr[i] = int.Parse(input[i + 1]);
                 }
-
                 int sum = Summation(arr, n);
                 Console.WriteLine("Case " + testCase + ": " + sum);
             }
