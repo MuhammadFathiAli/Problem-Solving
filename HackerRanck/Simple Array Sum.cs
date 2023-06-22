@@ -14,7 +14,6 @@ using System;
 
 class Result
 {
-
     public static int simpleArraySum(List<int> ar)
     {
         int sum = 0;
