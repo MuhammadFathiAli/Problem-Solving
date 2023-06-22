@@ -24,7 +24,6 @@ namespace test2
                 if (line[0] - 1 < 0)
                 {
                     Console.WriteLine(cumArr[line[1]]);
-
                 }
                 else
                 {
