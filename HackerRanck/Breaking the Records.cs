@@ -35,7 +35,7 @@ class Result
         }
         return records;
     }
-
+    }
 }
 
 class Solution
