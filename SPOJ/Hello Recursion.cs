@@ -15,7 +15,6 @@ namespace test2
                 long x = Sum(ints, ints[0]);
                 Console.WriteLine($"Case {i}: {x}");
             }
-
         }
         static long Sum(long[] nums, long i)
         {
